@@ -68,3 +68,18 @@ I sent the gauge to print and worked on the journal while waiting. I still need 
 ![Single-arm horn placed in the printed fit gauge](images/current-build.jpg)
 
 **Total time spent: 40 minutes**
+
+
+# October 15, 2026: Redesigning the base support
+
+I came back to the base because I was worried about the SG90 supporting the platform and the rest of the arm. I looked at a few redesign ideas, but I don't have bearings, so I wanted to try something I could print. I also wanted to make more of the design decisions myself instead of following every step.
+
+I added a circular wall underneath the rotating platform and a matching groove in the fixed base. The idea is for the wall to rest in the groove and share the weight, rather than leaving the platform supported only by the servo horn. The groove is 4 mm deep, and the wall has a 65 mm outer diameter and a 58 mm inner diameter.
+
+At first, I gave the groove those same diameters. That left no clearance, which could make the printed parts bind. I worked out a test fit with a 65.6 mm outer groove diameter and a 57.4 mm inner diameter. That leaves 0.3 mm of space on each side, but it doesn't remove the friction underneath where the parts touch.
+
+I also worked on a smaller fit test so I wouldn't need to reprint the whole base just to check the groove. The plan is to use a quarter-circle section instead of scaling everything down, because scaling would shrink the clearance too. I haven't confirmed the printed fit yet, and I'm still concerned about how much friction the SG90 will have to overcome.
+
+![Redesigned base with a supporting skirt beneath the rotating platform](images/2026-10-15-base-redesign.png)
+
+**Total time spent: 1 hour**
