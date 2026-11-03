@@ -88,3 +88,15 @@ After the print was done, I tested it by putting the cross-shaped servo horn int
 ![Cross horn placed in the newly designed fit gauge](images/1234.jpg)
 
 Total time spent: 45 minutes
+
+
+
+# November 3, 2026: Fixing base assembly and finalizing shoulder joint fit
+
+Today I started my time by trying to finalize the shoulder joint fit gauge, which would allow me to start working on the upper arm; however, I encountered an issue when I realized that the connection between the base and the rotating plate weren't connected well enough, so I spent some time readjusting and properly connecting the 2, as well as adjusting the servo mounting screws, which will allow for increased stabilization.
+
+After that was finished, I took my newly designed fit gauge from the printer and tested it on the servo; it was a perfect fit. My next plan is to begin working on the upper arm.
+
+![Newly designed shoulder fit gauge](images/Screenshot_2026-11-03_at_6.10.33_PM.jpg)
+
+Total time spent: 80 minutes
